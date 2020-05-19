@@ -50,7 +50,7 @@ $.getJSON("datas.php",function (data){
     var options = {
         chart: {
             width: 1160,
-            height: 650,
+            height: 655,
             title: 'Grafik Penerimaan Mahasiswa Baru Politeknik Caltex Riau',
             format: '1'
         },
